@@ -19,6 +19,9 @@ $umur = 20;
 
 <body>
 
+    <p><?= $nama ?></p>
+    <i><?php echo $umur ?></i>
+
 </body>
 
 </html>
